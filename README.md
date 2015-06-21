@@ -1,5 +1,5 @@
 # getdata_Jun2015Project
-This project was to clean data from an activity monitor data set and summarize a subset of it. 
+This project was to clean data and then summarize a subset of it. 
 
 The R script here assumes you have downloaded and unzipped the data to your working directory from: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
