@@ -20,4 +20,4 @@ The script does the following.
   The descriptive names for the variables were added from the features.txt after removing parenthesis and hyphens to make       them legal R variable names.  The columns for actvities and subjects were renamed accordingly.
 
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject:
-  The script uses the aggregate function to apply the mean function to all the subjects and their activities for each mean and standard deviation measurement.
+  The script uses the aggregate function to apply the mean function to all the subjects and their activities for each mean     and standard deviation measurement. The set is tiday because each variable has summarized measure in one column and each     different observation (subject,   activities) of that variable should is in a different row.
